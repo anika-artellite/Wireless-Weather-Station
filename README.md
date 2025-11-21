@@ -1,4 +1,4 @@
-# Weather-Station
+# Wireless-Weather-Station
 This project uses two ESP-32 boards to create a simple wireless weather station that measures temperature and humidity using the AHT20T sensor. One ESP32 collects sensor data, and the other ESP32 receives it and displays the values on an LCD screen. 
 
 Features:
